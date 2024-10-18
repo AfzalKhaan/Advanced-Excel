@@ -9,3 +9,5 @@
 3) Cafe daily sales analysis
    [cafe sales analysis Excel](https://docs.google.com/spreadsheets/d/1F1evb5WKBEhp6EldxWMhRzGQ0R7sA_Gc/edit?usp=sharing&ouid=105522263406008888883&rtpof=true&sd=true) ,
    [sales analysis explained](https://docs.google.com/document/d/1hQ8h8tPo6bjRfPJsL4kvoSkGiUEcEzrN/edit?usp=sharing&ouid=105522263406008888883&rtpof=true&sd=true)
+
+[Tea & Coffee sales Analysis.xlsx](https://github.com/user-attachments/files/17437969/Data_Assignment.2.xlsx)
